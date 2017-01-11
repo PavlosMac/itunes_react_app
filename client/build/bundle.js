@@ -19846,7 +19846,7 @@
 	        React.createElement(
 	          'td',
 	          null,
-	          song["category"]["attributes"]["im:id"]
+	          i + 1
 	        ),
 	        React.createElement(
 	          'td',

@@ -19755,7 +19755,7 @@
 	'use strict';
 	
 	var React = __webpack_require__(1);
-	var SongTable = __webpack_require__(161);
+	var SongTable = __webpack_require__(160);
 	
 	var TopTwentyContainer = React.createClass({
 	  displayName: 'TopTwentyContainer',
@@ -19803,8 +19803,7 @@
 	module.exports = TopTwentyContainer;
 
 /***/ },
-/* 160 */,
-/* 161 */
+/* 160 */
 /***/ function(module, exports, __webpack_require__) {
 
 	'use strict';

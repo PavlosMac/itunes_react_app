@@ -36,7 +36,7 @@ var SongTable = React.createClass({
           <td>{i+1}</td>
           <td>{song["im:name"].label}</td>
           <td>{song["im:artist"].label}</td>
-          <td><img src={song["im:image"][2].label}></img></td>
+          <td><img src={ song["im:image"][2].label }></img></td>
         </tr>
       );
     }.bind(this));
